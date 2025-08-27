@@ -20,7 +20,7 @@ This project demonstrates interfacing the **ADC0808** analog-to-digital converte
 
 **Proteus Simulation Screenshot:**
 
-![ADC0808 Interfacing](adc_0808_8051_interfacing.png)
+![ADC0808 Interfacing](adc_0808_8051_interfacing.png))
 
 ---
 
